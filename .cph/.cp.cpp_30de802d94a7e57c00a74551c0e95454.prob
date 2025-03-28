@@ -1,0 +1,1 @@
+{"name":"Local: cp","url":"c:\\Users\\sam\\Desktop\\code\\c c++\\cp.cpp","tests":[{"id":1676150319570,"input":"8 3\nBBGBGBGB","output":"GGBGBBBB"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sam\\Desktop\\code\\c c++\\cp.cpp","group":"local","local":true}
